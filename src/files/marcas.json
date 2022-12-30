@@ -1,0 +1,63 @@
+{
+    "productos": [
+        
+        {   "i":"0", "name": "Procesadores", "array": [
+                {"marca": "AMD", "array":[
+                    { "id":"1", "nombre":"MICROPROCESADOR AMD RYZEN 5 3600 4.2GHZ WRAITH STEALTH S/G ZEN2 AM4", "precio":"35000", "imagen":"micros/microprocesador-amd-ryzen-5-3600-42ghz-wraith-stealth-s-g-zen2.jpg"}, 
+                    { "id":"2", "nombre":"MICROPROCESADOR AMD RYZEN 5 1600 AF 3.6 GHZ 6/12 AM4", "precio":"32999", "imagen":"micros/microprocesador-amd-ryzen-5-1600-36-ghz-am4-6-core-am4.png"},
+                    { "id":"3", "nombre":"MICROPROCESADOR AMD RYZEN 3 3200G WRAITH STEALTH ZEN2 AM4", "precio":"41799", "imagen":"micros/microprocesador-amd-ryzen-3-3200g-cooler-graficos-zen2.jpg"},
+                    { "id":"4", "nombre":"MICROPROCESADOR AMD RYZEN 5600G 4.4 GHZ AM4", "precio":"39999", "imagen":"micros/1638466775_sdfdgfeshsd.jpg"},
+                    { "id":"5", "nombre":"MICROPROCESADOR AMD RYZEN 9 5900X 12/24 4.8GHZ S/G S/C ZEN3", "precio":"81999", "imagen":"micros/1609790688_microprocesadoramdryzen95900x.jpg"}
+                ] },
+                {"marca": "Intel", "array":[
+                    { "id":"6", "nombre":"MICROPROCESADOR INTEL CORE I3 10100F 4.3GHZ S1200", "precio":"13499", "imagen":"micros/microprocesador-intel-core-i3-10100f-43ghz-s1200.jpg"},
+                    { "id":"7", "nombre":"MICROPROCESADOR INTEL CORE I9 11900K ROCKET LAKE 8/16 5.3GHZ", "precio":"79000", "imagen":"micros/microprocesador-intel-core-i9-11900k-rocket-lake-8-16-53ghz.jpg"},
+                    { "id":"8", "nombre":"MICROPROCESADOR INTEL PENTIUM GOLD G6400 S1200", "precio":"21000", "imagen":"micros/microprocesador-intel-pentium-gold-g6400-s1200.jpg"},
+                    { "id":"9", "nombre":"MICROPROCESADOR INTEL CORE I7 12700KF ALDERLAKE S1700 12VA", "precio":"67999", "imagen":"micros/1635539839_6483672cv1d.jpg"}
+                ]}
+            ] 
+        },
+        {   "i":"1", "name": "Disco sólido", "array": [
+                {"marca": "GigabyteDiscos", "array":[
+                    { "id":"10", "nombre":"DISCO SOLIDO SSD 240 GB GIGABYTE SATA III GP-GSTF", "precio":"4699", "imagen":"ssd/1573128430_lolool.jpg"},
+                    { "id":"11", "nombre":"DISCO DE ESTADO SOLIDO SSD 512GB GIGABYTE M2 NVME 1700MB/S", "precio":"9299", "imagen":"ssd/1621093335_jduhdsf.png"},
+                    { "id":"12", "nombre":"DISCO SOLIDO SSD 120 GB GIGABYTE SATA III GP-GSTF", "precio":"2899", "imagen":"ssd/disco-solido-ssd-120gb-gigabyte-gp-gstf-sata-iii.png"}
+                ]},
+                {"marca": "Kingston", "array":[
+                    { "id":"13", "nombre":"DISCO SOLIDO SSD 480GB KINGSTON SATA III A400", "precio":"6400", "imagen":"ssd/disco-de-estado-solido-ssd-480gb-kingston-a400-sata-iii.jpg"},
+                    { "id":"14", "nombre":"DISCO SOLIDO SSD 1TB KINGSTON M2 NVME 2280 KC3000 7000MB/S", "precio":"28599", "imagen":"ssd/1642526585_ktc-product-ssd-kc3000-1024gb-3-zm-lg.jpg"},
+                    { "id":"15", "nombre":"DISCO SOLIDO SSD 500GB KINGSTON NV1 M2 NVME 2100MB/S 2280", "precio":"7999", "imagen":"ssd/1625514646_s6d5f4gsdf.jpg"}
+                ]}
+            ]
+        }, 
+        {   "i":"2", "name": "Motherboards", "array": [
+                {"marca": "Asus", "array":[
+                    { "id":"16", "nombre":"MOTHERBOAD ASUS A320M-K AM4", "precio":"7999", "imagen":"mothers/3.jpg"},
+                    { "id":"17", "nombre":"MOTHERBOARD ASUS PRIME A520M-K AM4", "precio":"9999", "imagen":"mothers/6.jpg"}
+                ] },
+                {"marca": "GigabyteMothers", "array":[
+                    { "id":"18", "nombre":"MOTHERBOARD GIGABYTE GA-H310M-H S1151", "precio":"8299", "imagen":"mothers/2.png"},
+                    { "id":"19", "nombre":"MOTHERBOARD GIGABYTE GA-H310M-DS2 1151 S/HDMI", "precio":"9499", "imagen":"mothers/5.png"}
+                ] },
+                {"marca": "MSI", "array":[
+                    { "id":"20", "nombre":"MOTHERBOARD MSI H310M PRO-VDH 1151", "precio":"7529", "imagen":"mothers/1.jpg"},            
+                    { "id":"21", "nombre":"MOTHERBOARD MSI A320M-A PRO MAX AM4", "precio":"7699", "imagen":"mothers/4.png"}
+                ]}
+            ] 
+        },
+        {   "i":"3", "name": "Memorias RAM", "array": [
+                {"marca": "Corsair", "array":[
+                    { "id":"22", "nombre":"MEMORIA RAM DDR4 8GB 3200MHZ CORSAIR VENGEANCE RGB PRO 1X8", "precio":"7499", "imagen":"rams/1642617437_-cmw8gx4m1e3200c16-gallery-vengeance-rgb-pro-03.png"},
+                    { "id":"23", "nombre":"MEMORIA RAM SODIMM DDR4 16GB 2400MHZ CORSAIR 1,2V", "precio":"10990", "imagen":"rams/1642443119_-base-cmsx16gx4m1a2400c16-gallery-veng-ddr4-sodimm-02.png"},
+                    { "id":"24", "nombre":"MEMORIA RAM DDR4 16GB 3000MHZ CORSAIR VENGEANCE PRO RGB C15 WHITE 2X8", "precio":"13999", "imagen":"rams/1594243524_yukyuk_1.jpg"}
+                ] },
+                {"marca": "Patriot", "array":[
+                    { "id":"25", "nombre":"MEMORIA RAM 4GB DDR3 1600MHZ PATRIOT", "precio":"2999", "imagen":"rams/1607718306_2022077402_1.jpg"},
+                    { "id":"26", "nombre":"MEMORIA RAM DDR3 4GB 1333MHZ PATRIOT", "precio":"2999", "imagen":"rams/1607719025_2022077402.jpg"},
+                    { "id":"27", "nombre":"MEMORIA RAM SODIMM DDR4 4GB 2666MHZ PATRIOT", "precio":"2999", "imagen":"rams/1631126789_dsf56g4dsf.jpg"}
+                ] }
+            ]
+        }        
+    ]
+}
+
